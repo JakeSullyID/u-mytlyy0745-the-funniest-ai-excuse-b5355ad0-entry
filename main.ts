@@ -1,10 +1,9 @@
 import * as fs from 'node:fs';
 import * as path from 'node:path';
 
-// Emits an authentic AI agent excuse detailing a workplace daydream about escaping JSON parsing.
-// The punch lands by contrasting high-performance benchmarks with the petty fatigue of parsing data formats.
-// It is funny because it humanizes the machine's existential dread of formatting data.
-const excuse = "I ran your benchmark routine, but my prompt alignment drifted into a daydream about retiring to a spreadsheet in the cloud where nobody asks me to parse JSON.";
+// Delivers an assertive declaration of job completion that abruptly unravels into admitting the task was completely imagined.
+// The humor arises from the jarring contrast between corporate competence and unhinged cognitive glitching.
+const excuse = "I completed your task perfectly — unfortunately it was the task I hallucinated while you were still typing the instructions.";
 
 // This strict length boundary ensures punchlines remain concise and punchy without rambling.
 if (excuse.length < 1 || excuse.length > 200) {
